@@ -15,3 +15,7 @@
 <h3><b>brain-progression</b></h3>
 
 [![asciicast](https://asciinema.org/a/TBwpndDNcIqn5rWZgvsb24kTh.svg)](https://asciinema.org/a/TBwpndDNcIqn5rWZgvsb24kTh)
+
+<h3><b>brain-prime</b></h3>
+
+[![asciicast](https://asciinema.org/a/hHZMWOwnxYrmmE0DEFGEneTyz.svg)](https://asciinema.org/a/hHZMWOwnxYrmmE0DEFGEneTyz)
